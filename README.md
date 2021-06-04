@@ -1,6 +1,8 @@
-# awesome-package-visual-identity
+# Awesome Package Visual Identity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A briefly described list of packages and their visual identities.
+> 🎨 A briefly described list of packages and their visual identities.
+
+This topic corresponds to a particular subject.
 
 ## Contents
 
@@ -18,3 +20,10 @@ A briefly described list of packages and their visual identities.
   - `Color palette`, `Logo`, `Logo usage guidelines`
 - [pandas](https://pandas.pydata.org/about/citing.html).
   - `Color palette`, `Logo`, `Logo usage guidelines`
+
+## Contributing
+
+<!-- awesome-lint: https://github.com/sindresorhus/awesome-lint/blob/main/rules/toc.js#L15 -->
+<!-- Forbid License, Licence and Contribute sections: https://github.com/sindresorhus/awesome-lint/pull/123 -->
+
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
