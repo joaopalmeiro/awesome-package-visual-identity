@@ -10,8 +10,8 @@ This topic corresponds to a particular subject.
 
 ## Python
 
-- COMET: [(1)](https://github.com/Unbabel/COMET/blob/master/README.md), [(2)](https://github.com/Unbabel/COMET/blob/master/docs/source/_static/css/comet.css).
-- NumPy: [(1)](https://github.com/numpy/numpy/tree/master/branding/logo), [(2)](https://github.com/numpy/numpy.org/blob/master/README.md).
+- [COMET](https://github.com/Unbabel/COMET/blob/master/README.md) - Includes logo and [color palette](https://github.com/Unbabel/COMET/blob/master/docs/source/_static/css/comet.css).
+- [NumPy](https://github.com/numpy/numpy/tree/main/branding) - Includes logo, logo usage guidelines, and [color palette](https://github.com/numpy/numpy.org/blob/master/README.md).
 - [pandas](https://pandas.pydata.org/about/citing.html).
 
 ## Contributing

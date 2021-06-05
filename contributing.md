@@ -21,6 +21,7 @@ Please ensure that your pull request (PR) adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing space.
 - The PR should have a useful title and include a link to the package/visual identity and why it should be included.
+- If all visual identity elements are not accessible from a single link, use the description to mention them and include extra links.
 - New categories or improvements to the existing categorization are welcome, but should be done in a separate PR.
 
 Thank you for your suggestion!
