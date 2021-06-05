@@ -13,3 +13,4 @@
     - ![#1a1a1a](https://via.placeholder.com/15/1a1a1a/000000?text=+) — #1a1a1a
     - ![#3852de](https://via.placeholder.com/15/3852de/000000?text=+) — #3852de
 - Categories: `Color palette`, `Logo`, `Logo usage guidelines`.
+- Rock Content's [What is visual identity and how important it is to your business strategy](https://rockcontent.com/blog/visual-identity/) blog post.

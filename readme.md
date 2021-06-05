@@ -2,7 +2,7 @@
 
 > 🎨 A briefly described list of packages and their visual identities.
 
-This topic corresponds to a particular subject.
+Visual identity is a set of graphic and visual elements that, together, characterize an entity. This concept can be adapted to shareable packages like Python packages. The logo and color palette are two examples of possible elements.
 
 ## Contents
 
