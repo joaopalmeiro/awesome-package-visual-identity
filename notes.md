@@ -19,3 +19,8 @@
     - ![#000000](https://via.placeholder.com/15/000000/000000?text=+) — #000000
     - ![#fcfcfc](https://via.placeholder.com/15/fcfcfc/000000?text=+) — #fcfcfc
     - ![#333333](https://via.placeholder.com/15/333333/000000?text=+) — #333333
+  - Color palette (mix of scikit-learn and PyTorch logos):
+    - ![#000000](https://via.placeholder.com/15/000000/000000?text=+) — #000000
+    - ![#ee4c2c](https://via.placeholder.com/15/ee4c2c/000000?text=+) — #ee4c2c
+    - ![#3499cd](https://via.placeholder.com/15/3499cd/000000?text=+) — #3499cd
+    - ![#f89939](https://via.placeholder.com/15/f89939/000000?text=+) — #f89939

@@ -13,6 +13,7 @@ Visual identity is a set of graphic and visual elements that, together, characte
 - [COMET](https://github.com/Unbabel/COMET/blob/master/README.md) - Includes logo and [color palette](https://github.com/Unbabel/COMET/blob/master/docs/source/_static/css/comet.css).
 - [NumPy](https://github.com/numpy/numpy/tree/main/branding) - Includes logo, logo usage guidelines, and [color palette](https://github.com/numpy/numpy.org/blob/master/README.md).
 - [pandas](https://pandas.pydata.org/about/citing.html)
+- [skorch](https://github.com/skorch-dev/skorch/tree/master/assets)
 
 ## Contributing
 
