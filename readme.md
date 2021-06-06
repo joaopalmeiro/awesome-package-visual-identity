@@ -7,6 +7,7 @@ Visual identity is a set of graphic and visual elements that, together, characte
 ## Contents
 
 - [Python](#python)
+- [JavaScript](#javascript)
 
 ## Python
 
@@ -14,6 +15,10 @@ Visual identity is a set of graphic and visual elements that, together, characte
 - [NumPy](https://github.com/numpy/numpy/tree/main/branding) - Includes logo, logo usage guidelines, and [color palette](https://github.com/numpy/numpy.org/blob/master/README.md).
 - [pandas](https://pandas.pydata.org/about/citing.html)
 - [skorch](https://github.com/skorch-dev/skorch/tree/master/assets)
+
+## JavaScript
+
+- [Vega](https://github.com/vega/logos) - Vega Project, Vega, and Vega-Lite.
 
 ## Contributing
 
