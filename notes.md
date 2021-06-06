@@ -14,3 +14,8 @@
     - ![#3852de](https://via.placeholder.com/15/3852de/000000?text=+) — #3852de
 - Categories: `Color palette`, `Logo`, `Logo usage guidelines`.
 - Rock Content's [What is visual identity and how important it is to your business strategy](https://rockcontent.com/blog/visual-identity/) blog post.
+- skorch:
+  - [Documentation color palette](https://github.com/skorch-dev/skorch/blob/master/docs/_static/css/my_theme.css):
+    - ![#000000](https://via.placeholder.com/15/000000/000000?text=+) — #000000
+    - ![#fcfcfc](https://via.placeholder.com/15/fcfcfc/000000?text=+) — #fcfcfc
+    - ![#333333](https://via.placeholder.com/15/333333/000000?text=+) — #333333
