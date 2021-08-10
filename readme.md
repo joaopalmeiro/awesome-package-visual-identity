@@ -15,6 +15,7 @@ Visual identity is a set of graphic and visual elements that, together, characte
 - [NumPy](https://github.com/numpy/numpy/tree/main/branding) - Includes logo, logo usage guidelines, and [color palette](https://github.com/numpy/numpy.org/blob/master/README.md).
 - [pandas](https://pandas.pydata.org/about/citing.html)
 - [skorch](https://github.com/skorch-dev/skorch/tree/master/assets)
+- [pytest](https://github.com/pytest-dev/design) - Includes [logo](https://github.com/pytest-dev/design/tree/master/pytest_logo) and other materials (such as a T-shirt design).
 
 ## JavaScript
 
